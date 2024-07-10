@@ -96,13 +96,90 @@ margin-bottom: 44px;
 }
 
 
-.second-section{
+.second-section-bg{
 
-    background-color: rgba(13, 19, 33, 0.02);
+    background-color: rgba(13, 19, 33, 0.02);;
     margin-top: 74px;
+    margin-left: 148px;
+    margin-right: 152px;
+    margin-bottom: 90px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .why-web{
+
+    text-align: center;
+    color:rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800px
+}
+
+
+.why-web-des{
+
+    text-align: center;
+}
+
+
+.box-part-one{
+
+    
+    
+    background-color: white;
+    margin-top: 74px;
+    margin-left: 148px;
+    margin-right: 152px;
+    margin-bottom: 90px;
+
+    
+}
+
+
+.box-part-two{
+
+
+
+    display: flex;
+    justify-content: space-between;
+    padding-top: 48px;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-bottom: 48px;
+
+
+}
+
+
+.i-will-do{
+
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700px;
+}
+
+
+.I-will-des{
+
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgb(13, 19, 33);
+}
+
+.box-btn{
+width: 171px;
+height: 47px;
+display: flex;
+justify-content: center;
+align-items: center;
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+
+color: rgb(13, 19, 33);;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
 text-align: center;
-padding-top: 80px;
 }
